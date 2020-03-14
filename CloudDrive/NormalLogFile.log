@@ -1,0 +1,144 @@
+2009-12-19 17:35:52,431 [0x0000185c]  ERROR ShareAPI - GetNodeList  failed!
+  ErrorCode: 12002  :  The operation timed out
+
+2009-12-19 18:02:24,414 [0x00002cec]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 18:16:06,816 [0x00000910]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 20:32:01,621 [0x00001604]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 20:35:35,851 [0x00002920]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 20:36:09,892 [0x000034d4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 20:52:55,480 [0x000012f0]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 21:00:49,789 [0x00002058]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 21:03:05,366 [0x00001d90]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 21:03:25,516 [0x00000d50]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 21:03:27,427 [0x00001238]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 21:03:28,143 [0x00000788]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 21:03:29,828 [0x00002af8]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 21:04:10,480 [0x0000197c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 21:04:11,584 [0x000010b0]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 21:04:27,114 [0x00002db0]   INFO ShareAPI -  GetNodeList finished 
+2009-12-19 21:05:07,492 [0x00001678]   INFO ShareAPI -  GetNodeList finished 
+2009-12-20 14:59:55,881 [0x00002f1c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-20 15:52:33,267 [0x000029e0]   INFO ShareAPI -  GetNodeList finished 
+2009-12-20 16:08:19,810 [0x00001f78]   INFO ShareAPI -  GetNodeList finished 
+2009-12-20 23:01:11,830 [0x000014c4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-20 23:07:17,674 [0x000022e0]   INFO ShareAPI -  GetNodeList finished 
+2009-12-20 23:13:00,966 [0x00002774]   INFO ShareAPI -  GetNodeList finished 
+2009-12-20 23:14:27,626 [0x0000163c]  ERROR ShareAPI - GetNodeList  failed!
+  ErrorCode: 12017  :  The operation has been canceled
+
+2009-12-21 20:16:21,325 [0x00002f90]   INFO ShareAPI -  GetNodeList finished 
+2009-12-21 20:17:28,576 [0x00003464]   INFO ShareAPI -  GetNodeList finished 
+2009-12-21 20:18:19,930 [0x00003464]   INFO ShareAPI -  GetNodeList finished 
+2009-12-21 21:45:02,714 [0x00002da0]   INFO ShareAPI -  GetNodeList finished 
+2009-12-21 21:45:15,748 [0x000021b8]   INFO ShareAPI -  GetNodeList finished 
+2009-12-21 21:46:11,090 [0x000021b8]   INFO ShareAPI -  GetNodeList finished 
+2009-12-21 22:33:58,875 [0x000037a0]   INFO ShareAPI -  GetNodeList finished 
+2009-12-21 22:44:45,586 [0x00001508]   INFO ShareAPI -  GetNodeList finished 
+2009-12-23 11:43:12,978 [0x00002c5c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-23 11:43:28,938 [0x00002bb4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-23 11:44:21,556 [0x00001b34]   INFO ShareAPI -  GetNodeList finished 
+2009-12-23 11:56:43,154 [0x00000668]   INFO ShareAPI -  GetNodeList finished 
+2009-12-23 11:57:30,386 [0x00002210]   INFO ShareAPI -  GetNodeList finished 
+2009-12-23 11:58:23,335 [0x000032c8]   INFO ShareAPI -  GetNodeList finished 
+2009-12-23 15:00:52,936 [0x00002f8c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-23 15:03:29,153 [0x00002cfc]   INFO ShareAPI -  GetNodeList finished 
+2009-12-23 15:03:52,987 [0x00000070]   INFO ShareAPI -  GetNodeList finished 
+2009-12-23 15:05:39,477 [0x00001f10]   INFO ShareAPI -  GetNodeList finished 
+2009-12-23 15:07:20,694 [0x00001a20]   INFO ShareAPI -  GetNodeList finished 
+2009-12-24 22:13:33,800 [0x000010a4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-25 14:18:04,880 [0x00002738]   INFO ShareAPI -  GetNodeList finished 
+2009-12-25 16:11:40,382 [0x00001df0]   INFO ShareAPI -  GetNodeList finished 
+2009-12-25 16:15:41,632 [0x000036b4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-25 16:22:34,878 [0x000025a4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-25 16:25:15,342 [0x0000119c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-25 16:25:31,526 [0x00002cfc]   INFO ShareAPI -  GetNodeList finished 
+2009-12-25 16:26:24,077 [0x00002e7c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 13:00:09,946 [0x00002f20]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 13:03:13,465 [0x00000950]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 13:22:52,195 [0x000002c8]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 13:23:02,342 [0x00003564]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 13:23:57,746 [0x00001d44]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 13:28:46,727 [0x000037cc]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 13:29:36,915 [0x00000e68]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 13:30:32,292 [0x00002f58]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 13:30:42,316 [0x00002714]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 13:31:33,556 [0x00000fb8]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 13:36:10,604 [0x00002154]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 13:36:44,893 [0x000019dc]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:02:55,336 [0x00003780]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:03:22,621 [0x00002898]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:08:09,575 [0x00002054]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:11:55,967 [0x00001d54]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:14:17,776 [0x00002088]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:18:12,519 [0x000022f0]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:20:23,264 [0x000012d0]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:23:59,986 [0x000036c0]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:28:27,199 [0x00001918]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:37:39,442 [0x00002620]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:42:01,339 [0x00001b7c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:51:35,542 [0x00000e30]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 14:56:53,575 [0x00001b44]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 15:05:13,033 [0x000029ac]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 15:09:59,054 [0x00001298]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 15:39:01,793 [0x00003224]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 15:40:14,986 [0x00001698]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 16:19:31,965 [0x000032c4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 16:35:11,129 [0x000034e8]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 16:44:29,689 [0x0000314c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 16:44:54,715 [0x00000d4c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 16:55:28,041 [0x00001574]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 16:55:36,687 [0x00001f3c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 16:56:29,655 [0x00001500]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 16:56:45,710 [0x00002c5c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 17:12:38,592 [0x00001660]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 17:12:54,756 [0x00002d8c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 17:13:56,136 [0x00001088]   INFO ShareAPI -  GetNodeList finished 
+2009-12-26 17:13:57,150 [0x00001088]   INFO ShareAPI -  GetNodeList finished 
+2009-12-27 15:14:27,474 [0x0000289c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-27 15:15:57,588 [0x00000d8c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-27 15:43:31,496 [0x000010c8]   INFO ShareAPI -  GetNodeList finished 
+2009-12-27 16:27:50,485 [0x00002b28]   INFO ShareAPI -  GetNodeList finished 
+2009-12-27 17:14:57,112 [0x00000d4c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-27 17:34:06,225 [0x00003790]   INFO ShareAPI -  GetNodeList finished 
+2009-12-27 20:54:52,998 [0x00003010]   INFO ShareAPI -  GetNodeList finished 
+2009-12-27 20:58:31,000 [0x000021e4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 11:57:31,670 [0x0000341c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 12:02:54,346 [0x00002cc4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 12:17:14,271 [0x000034d8]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 12:22:52,960 [0x000019b8]  ERROR ShareAPI - An unkown error has occurred. The error is returned when the ShareAPI cannot understand the request, for example, when the sent node ID doesn't exist.ýýýý««««««««îþîþîþ
+2009-12-28 12:24:21,706 [0x000019b8]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 13:15:29,896 [0x00002dec]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 13:18:40,520 [0x000012f4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 13:22:45,227 [0x00000510]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 13:27:44,686 [0x000012e0]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 13:35:09,661 [0x000022d8]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 13:39:19,508 [0x000022ec]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 13:42:08,557 [0x00002310]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 13:43:56,060 [0x000028a4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 13:48:10,510 [0x000018d8]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 14:27:08,289 [0x00001168]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 14:28:28,482 [0x00003788]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 14:28:41,112 [0x00001814]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 14:29:35,909 [0x00000fcc]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 14:31:25,094 [0x00003148]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 14:34:03,443 [0x000024d4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 14:35:09,375 [0x00001b4c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 15:02:05,876 [0x00001bc4]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 15:03:37,009 [0x00001f6c]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 15:05:51,498 [0x00001084]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 15:08:35,631 [0x00000ddc]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 15:14:35,269 [0x000027cc]   INFO ShareAPI -  GetNodeList finished 
+2009-12-28 15:17:06,670 [0x00001e34]  ERROR ShareAPI - Attempt to upload a file which is in an unsupported file format.ýýýý««««««««îþîþ
+2009-12-28 15:18:21,613 [0x00001e34]  ERROR ShareAPI - Attempt to upload a file which is in an unsupported file format.ýýýý««««««««îþîþ
+2010-01-11 21:39:13,847 [0x00002ce4]  ERROR ShareAPI - Attempt to upload a file which is in an unsupported file format.ýýýý««««««««îþîþ
+2010-01-11 23:23:29,633 [0x00000b6c]  ERROR ShareAPI - ýýýý««««««««îþîþ
+2010-01-11 23:30:35,680 [0x00001bbc]  ERROR ShareAPI - <reýýýý««««««««þ
+2010-01-11 23:34:59,458 [0x00000fac]  ERROR ShareAPI - An unkown error has occurred. The error is returned when the ShareAPI cannot understand the request, for example, when the sent node ID doesn't exist.ýýýý««««««««îþîþîþ
+2010-01-12 13:03:07,973 [0x000013d8]  ERROR ShareAPI - BadRenditionýýýý««««««««îþîþîþîþ
+2010-01-12 13:07:59,577 [0x00001738]  ERROR ShareAPI - BadRenditionýýýý««««««««
+2010-01-12 13:08:52,216 [0x00001738]  ERROR ShareAPI - BadRenditionýýýý««««««««
+2010-01-12 13:22:00,155 [0x00002d94]  ERROR ShareAPI - BadRenditionýýýý««««««««îþîþîþîþ
+2010-01-12 13:31:29,483 [0x00002d94]  ERROR ShareAPI - BadRenditionýýýý««««««««îþîþîþîþ
+2010-01-12 13:40:26,366 [0x00002d94]  ERROR ShareAPI - BadRenditionýýýý««««««««îþîþîþîþ
+2010-01-12 15:18:33,410 [0x00002274]  ERROR ShareAPI - BadRenditionýýýý««««««««îþîþîþîþ
+2010-01-12 15:22:41,536 [0x000021c4]  ERROR ShareAPI - BadRenditionýýýý««««««««

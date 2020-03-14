@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configure>
+	<user>
+		<email></email>
+		<password></password>
+	</user>
+	<forbiddenextension>AAC,MOV,MP3,WMV,OGG,FLV,XVID,DIVX,TTF,DFONT,OTF,TGZ,7Z,SIT,EXE,DLL,JAR,RAR,WAR,CAB,JS,VB,BAT,CHM,CMD,COM,CPL,CRT,HLP,HTA,INF,INS,ISP,JSE,LNK,MDB,MS,PCD,PIF,RETG,SCR,SCT,SHS,WS,SH,CSH,TCSH,KSH,BASH,ZSH</forbiddenextension>
+</configure>
